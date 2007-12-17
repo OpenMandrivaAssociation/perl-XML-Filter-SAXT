@@ -12,7 +12,6 @@ BuildRequires:	perl-devel
 BuildArch:	noarch
 Provides:	perl-libxml-enno
 Obsoletes:	perl-libxml-enno
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 SAXT is like the Unix 'tee' command in that it multiplexes the input
