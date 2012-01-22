@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	%mkrel 3
+Release:	%mkrel 4
 
 Summary:	XML::Filter::SAXT - replicates SAX events to several SAX event handlers
 License:	GPL+ or Artistic
